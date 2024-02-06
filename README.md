@@ -33,7 +33,7 @@ The main reason for me to create this application was to learn Springboot applic
    or
    spring:
    datasource: 
-   url: jdbc:mysql://localhost:3306/CarRental
+   url: jdbc:mysql://localhost:3308/CarRental
    username: root
    password:
    jpa:
