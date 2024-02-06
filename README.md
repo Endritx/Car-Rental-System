@@ -50,6 +50,6 @@ Type username and password if you have one.
 create does the creation of all entites, attributes done in the code if so._
 
 
-3. In terminal, execute the command to get my code : `git clone https://github.com/Endritx/CarRental.git`
+3. In terminal, execute the command to get my code : `git clone https://github.com/Endritx/Car-Rental-System.git`
 4. Run the Springboot application and MySQL Server. Insert values with Get and Post method or directly by SQL code in the database.
 5. The API and the front-end I am doing with angular and when it is connected it runs on server http://localhost:4200/ , but It is not finished :).
