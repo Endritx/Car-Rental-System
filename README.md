@@ -28,7 +28,7 @@ The main reason for me to create this application was to learn Springboot applic
    spring.datasource.username=root 
    spring.datasource.password='' 
    spring.jpa.hibernate.ddl-auto=create 
-   spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect 
+   spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect 
    spring.jpa.show-sql=true
    or
    spring:
